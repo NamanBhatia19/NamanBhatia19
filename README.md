@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Bhatia</h1>
 <h3 align="center">A passionate student of Computers and Electronics Engineering</h3>
-<img src = "https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif">
-<img src = "https://media.giphy.com/media/ToMjGpyHdJiioVfdtK0/giphy.gif">
+<img src = "https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width = "500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-bhatia-475018195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-bhatia-475018195/" height="30" width="40" /></a>
