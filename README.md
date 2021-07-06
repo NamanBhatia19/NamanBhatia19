@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Naman Bhatia</h1>
-<h3 align="center">A passionate student of Computers and Electronics Engineering, fabricating the wires of experience on Life's PCB.</h3>
+<h3 align="justify">A passionate student of Computers and Electronics Engineering, fabricating the wires of experience on Life's PCB.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-bhatia-475018195/" target="blank">
