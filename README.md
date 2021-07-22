@@ -4,8 +4,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-bhatia-475018195/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-bhatia-475018195/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@naman_bhatia2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@naman_bhatia2023" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kronizerdeltac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kronizerdeltac" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
